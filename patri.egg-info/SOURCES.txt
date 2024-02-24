@@ -1,0 +1,17 @@
+.gitattributes
+pyproject.toml
+curso python/mibase.db
+curso python/modelo.py
+curso python/tp
+curso python/tp.py
+curso python/vista.py
+curso python/.idea/.gitignore
+curso python/.idea/curso python.iml
+curso python/.idea/misc.xml
+curso python/.idea/modules.xml
+curso python/.idea/inspectionProfiles/profiles_settings.xml
+curso python/__pycache__/modelo.cpython-311.pyc
+patri.egg-info/PKG-INFO
+patri.egg-info/SOURCES.txt
+patri.egg-info/dependency_links.txt
+patri.egg-info/top_level.txt
